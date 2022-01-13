@@ -13,4 +13,4 @@
   <img align="center"alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center"alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   
-  Sou Apaixonado por Tecnologia, pois criar um sistema para facilitar a vida das pessoas é incrível e muito gratificante para mim!
+  Apaixonado por Tecnologia, pois criar um sistema para facilitar a vida das pessoas é incrível e muito gratificante para mim!
